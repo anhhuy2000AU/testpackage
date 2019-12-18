@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace anhhuy2000\TestPackage;
+namespace anhhuy2000AU\TestPackage;
 
 /**
  * Testing package class

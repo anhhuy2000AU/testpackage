@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alan": "src"
+            "TestPackage\\": "src"
         }
     },
     "scripts": {
